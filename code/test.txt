@@ -1,2 +1,3 @@
 Initial commit
 Develop branch
+Merged template to master
